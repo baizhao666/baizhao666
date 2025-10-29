@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-29 11:10:05,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
+2025-10-29 14:03:07,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://45.145.229.71:8866/TVOD/6000000001000029752/wasusyt/index.m3u8
@@ -1305,6 +1305,14 @@ CETV-4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146
 经济科教,http://119.125.134.185:9902/tsfile/live/1014_1.m3u8
+广东科教,http://113.15.184.196:8181/tsfile/live/1003_1.m3u8
+广东科教,http://113.15.185.150:8181/tsfile/live/1003_1.m3u8
+广东科教,http://219.159.194.18:8181/tsfile/live/1003_1.m3u8
+广东科教,http://222.217.230.193:8181/tsfile/live/1027_1.m3u8
+广东科教,http://222.217.230.192:8181/tsfile/live/1027_1.m3u8
+广东科教,http://171.110.42.239:8181/tsfile/live/1027_1.m3u8
+广东科教,http://171.110.42.238:8181/tsfile/live/1027_1.m3u8
+广东科教,http://222.217.230.195:8181/tsfile/live/1027_1.m3u8
 大湾区卫视,http://150.158.112.123/公众号~玉玉软件库/migu.php?id=dwqws
 大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 大湾区卫视,http://b.zgjok.com:35455/itv/1000000002000011619.m3u8?cdn=ystenlive&Contentid=1000000002000011619
@@ -1371,14 +1379,6 @@ CETV-4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign
 汕头文旅,http://120.77.205.62:8087/rtp/239.253.43.47:5146
 茂名综合,http://120.77.205.62:8087/rtp/239.77.0.206:5146
 茂名公共,http://120.77.205.62:8087/rtp/239.77.0.207:5146
-广东科教,http://113.15.184.196:8181/tsfile/live/1003_1.m3u8
-广东科教,http://113.15.185.150:8181/tsfile/live/1003_1.m3u8
-广东科教,http://219.159.194.18:8181/tsfile/live/1003_1.m3u8
-广东科教,http://222.217.230.193:8181/tsfile/live/1027_1.m3u8
-广东科教,http://222.217.230.192:8181/tsfile/live/1027_1.m3u8
-广东科教,http://171.110.42.239:8181/tsfile/live/1027_1.m3u8
-广东科教,http://171.110.42.238:8181/tsfile/live/1027_1.m3u8
-广东科教,http://222.217.230.195:8181/tsfile/live/1027_1.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=263ef8e25e9d14599c49b2169d133840
@@ -1398,6 +1398,14 @@ CETV-4,https://vip.taoiptv.cn/source/itv.php?id=中国教育电视台4.m3u8&sign
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849
+TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+TVB Plus,http://api.mytv666.top/api/hk.php?id=3639623039646236316664356637656639306231623831633232376366353164267469643d77696e74763132332669643d3233
+TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 明珠台,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=cadf460aacc566024c43c7c43091734c
 明珠台,http://6v.nx.tc/smrt.php?playurl=http://50.7.234.10:8278/pearl_twn/playlist.m3u8
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
@@ -1529,14 +1537,6 @@ Now华剧,http://api.mytv666.top/api/qwt.php?t=香港频道&id=Now華劇台
 靖天资讯,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv065
 靖天资讯,http://api.mytv666.top/api/hk.php?id=6639383065333066306334313662336238356630636437666434343762656663267469643d74762669643d313631
 靖天资讯,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-TVB翡翠,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-TVB Plus,http://api.mytv666.top/api/hk.php?id=3639623039646236316664356637656639306231623831633232376366353164267469643d77696e74763132332669643d3233
-TVB Plus,http://50.7.234.10:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
-TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-TVB Plus,http://aktv_stream1.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 
 🎬电影频道,#genre#
 CHC家庭影院,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=b0f988110099cf6a8405d8aacc0ec1c4
