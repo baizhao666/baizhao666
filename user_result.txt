@@ -1791,6 +1791,7 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
 
 ☘️广东频道,#genre#
+广东珠江,https://mgev.188766.xyz/?migutoken=438735cec0d97843b89506deb07b9310&id=gd_gdzj&type=sz
 广东珠江,http://183.237.95.108:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=0&authid=0
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东珠江,http://120.198.101.106:9901/tsfile/live/1010_1.m3u8?key=txiptv
@@ -1807,6 +1808,7 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东影视,https://mgev.188766.xyz/?migutoken=30321bdb2b4dee118a3919c0e19830cc&id=gd_gdys&type=sz
 广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
 广东新闻,http://111.221.137.155:44330/tsfile/live/1001_1.m3u8?key=txiptv
 广东新闻,http://183.237.95.108:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
