@@ -1809,6 +1809,7 @@ CCTV-17,http://120.76.248.139/live/bfgd/4200000204.m3u8
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 广东体育,http://tvtj1.jxwltx.com:8003/live2915.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东影视,https://tv.t8t.shop/hls/gdys.m3u8
 广东影视,https://mgev.188766.xyz/?migutoken=30321bdb2b4dee118a3919c0e19830cc&id=gd_gdys&type=sz
 广东影视,http://tvtj1.jxwltx.com:8003/live1762.m3u8
 广东新闻,http://111.221.137.155:44330/tsfile/live/1001_1.m3u8?key=txiptv
