@@ -2140,6 +2140,7 @@ CCTV-17,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch1907311623349
 云南卫视,rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch10120116144658191615.rsc/69926_Uni.sdp
 
 ☘️广东频道,#genre#
+广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 广东珠江,http://pull-skycorp.speedws.com/live/3S8xigHp0f96ji1GgfcK5muiuOFRADBtzjLxBEU2DqbBg5l1J7.flv
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
 广东珠江,http://leidayu.f3322.net:8086/hls/47/index.m3u8
